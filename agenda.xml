@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneDirectory>
+  <DirectoryEntry>
+    <Name>Prueba 1</Name>
+    <Telephone>600100200</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Prueba 2</Name>
+    <Telephone>600300400</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Prueba 3</Name>
+    <Telephone>600500600</Telephone>
+  </DirectoryEntry>
+  <DirectoryEntry>
+    <Name>Prueba 4</Name>
+    <Telephone>600700800</Telephone>
+  </DirectoryEntry>
+</YealinkIPPhoneDirectory>
